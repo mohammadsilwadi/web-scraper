@@ -1,5 +1,8 @@
 # Web_scraper
 
-+ Create a baseline classification model by following (and modifying when needed) the Practical Text Classification With Python and Keras tutorial into a running Jupyter Notebook. 
++ Scrape a Wikipedia page and record which passages need citations.
+
+    E.g. History of Mexico has a few “citations needed”.
+
 # PULL REQUSET:
 [PR ](https://github.com/mohammadsilwadi/web-scraper/pull/1)
